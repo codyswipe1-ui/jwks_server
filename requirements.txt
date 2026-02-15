@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyjwt[crypto]
+cryptography
+pytest
+pytest-cov
+httpx
+ruff
