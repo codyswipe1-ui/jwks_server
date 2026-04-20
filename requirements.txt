@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-pyjwt[crypto]
+pyjwt
 cryptography
-pytest
-pytest-cov
-httpx
-ruff
+argon2-cffi
+pydantic
